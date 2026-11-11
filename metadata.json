@@ -1,0 +1,6 @@
+{
+  "name": "SQL Mastery: 3-Round Mock & Revision Hub",
+  "description": "Complete colorful interactive SQL study notes, visual execution diagrams, animated charts, and 3-round interview preparation system covering MCQs, Written SQL coding, and Technical Viva questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
